@@ -7,7 +7,7 @@ Dataset:
 
 ---
 
-Spanish report:
+**Spanish report:**
 
 Se ha creado una red neuronal convolutiva que clasifica radiografías de pecho diferenciando pacientes con neumonía o sin neumonía. Para ello, se ha realizado el siguiente proceso:	
 
