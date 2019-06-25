@@ -6,4 +6,5 @@ Dataset:
 > http://dx.doi.org/10.17632/rscbjbr9sj.2
 
 Example prediction using one of the models:
+
 ![Example prediction with Xception](https://github.com/AdrianLorenzoDev/xray-pneumonia-detection/blob/master/example-prediction.png)
